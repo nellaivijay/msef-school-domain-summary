@@ -1,7 +1,9 @@
 # MSEF 2026 School-by-Domain Abstract Counts
 
 This repository contains a reproducible parser and cleaned outputs for the uploaded PDF `2026HS-Abstract-final.pdf`.
+## Repository Structure
 
+```text
 msef-school-domain-summary/
 ├── README.md
 ├── requirements.txt
@@ -18,6 +20,8 @@ msef-school-domain-summary/
     ├── Data-Dictionary.md
     ├── Methodology.md
     └── Usage.md
+```
+
     
 
 ## Included files
