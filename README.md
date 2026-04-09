@@ -1,4 +1,4 @@
-# MSEF 2026 School-by-Domain Abstract Counts
+# MSEF 2026 High School Abstracts Survey
 
 A lightweight, reproducible repository for extracting and summarizing **school-wise abstract counts by domain** from the uploaded PDF **`2026HS-Abstract-final.pdf`**.
 
